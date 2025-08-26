@@ -17,7 +17,7 @@ A clean, responsive single-page portfolio built with HTML, CSS, and JavaScript, 
 
 ## 📸 Preview
 
-![Portfolio Screenshot](https://github.com/isumianw/portfolio-site/blob/main/html_finalprojimages/portfolio-screenshot.png)
+![Portfolio Screenshot](https://github.com/isumianw/portfolio-site/blob/main/html_finalprojimages/website-preview.png)
 
 ## 🔗 Live Demo
 
